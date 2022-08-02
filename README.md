@@ -38,3 +38,12 @@
 <li>Sou mineira, filha de paulista com mineira e criada no Paraná e Santa Catarina. Uma mistura! 🔺</li>
 <li>Resumiram meu gosto musical em "música de fadinha" e "música de taberna". Prefiro não discutir 😅</li>
 </ul>
+</br>
+
+<!----
+<div>
+<a href="https://github.com/iasminln">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminln&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+---->
