@@ -22,6 +22,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/1003853007319990425/1004026079192809543/logo-vtex.png" width="40px" />
 </br>
 </br>
+</br>
 
 <h2 align="left">Algumas bobeirinhas 😁 </h2>
 <ul>
