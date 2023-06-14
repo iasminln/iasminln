@@ -32,14 +32,6 @@
 <li>Depois de me aperfeiçoar melhor em desenvolvimento web, quero aprender tecnologias mobile.</li>
 </ul>
 
-<div align="center">~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</div>
-</br>
-
-<ul>
-<li>Sou mineira, filha de paulista com mineira e criada no Paraná e Santa Catarina. Uma mistura! 🔺</li>
-<li>Resumiram meu gosto musical em "música de fadinha" e "música de taberna". Prefiro não discutir 😅</li>
-</ul>
-</br>
 
 <!----
 <div>
