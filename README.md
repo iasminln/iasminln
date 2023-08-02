@@ -25,12 +25,20 @@ Utilizo esse espaço para publicar pequenos projetos de estudo.</p>
 </br>
 </br>
 
-<h2 align="left">Algumas bobeirinhas 😁 </h2>
+<h2 align="left">Sobre o início de carreira 😁</h2>
 <ul>
-<li>Aprendi HTML e CSS em 2006, com uns 12 anos, em tempos pré YouTube e pré Tumblr. Mas parei de mexer nisso quando fui pro ensino médio, retornando só na faculdade de engenharia.</li>
-<li>Sou formada em engenharia civil e atuei fazendo projetos hidráulicos e de prevenção contra incêndio. Mas não estava feliz nessa carreira.</li>
-<li>Comecei a rever e estudar programação em 2019, mas só mudei de carreira oficialmente em 2021, iniciando como estagiária em front-end. A Iasmin de 12 anos ficou bem satisfeita com isso!</li>
+<li>Aprendi HTML e CSS em 2006, com uns 12 anos, em tempos pré YouTube e pré Tumblr. Tive um blog e criava todo o design, layout e identidade visual (nos moldes anos 2000: com muito brilho e música de fundo). Mas parei de mexer nisso quando fui pro ensino médio, retornando só na faculdade de engenharia.</li>
+<li>Sou formada em engenharia civil e atuei fazendo projetos hidráulicos e de prevenção contra incêndio, residencial e predial. Mas não estava feliz nessa carreira.</li>
+<li>Comecei a rever e estudar programação em 2018, mas só mudei de carreira oficialmente em 2021, iniciando como estagiária em front-end. A Iasmin de 12 anos ficou bem satisfeita com isso!</li>
 <li>Depois de me aperfeiçoar melhor em desenvolvimento web, quero aprender tecnologias mobile.</li>
+</ul>
+
+<h2 align="left">Sobre quem é a Ias 🌸</h2>
+<ul>
+<li>Embora não tenha gostado de atuar como engenheira, descobri que os conteúdos de mecânica dos fluídos e hidráulica são muito interessantes.</li>
+<li>Eu sempre fugia das aulas de educação física na escola. Quando tinha algum evento esportivo, preferia ficar na sala jogando sudoku e resolvendo joguinhos de lógica.</li>
+<li>Mas eu gosto de esportes! Gostava muito de natação e ginástica artística. Adorei praticar sanda e kung fu. Atualmente sou uma aprendiz de maromba de academia.</li>
+<li>Tenho um gosto musical eclético, mas o mais predominante na playlist é rock/metal e instrumentais. Mas não dispenso um bom pagodinho.</li>
 </ul>
 
 
