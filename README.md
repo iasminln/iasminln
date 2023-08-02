@@ -1,7 +1,7 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/1003853007319990425/1003865935142203413/imagem.png" />
 
 <h1>Olá, mundo! 🌎</h1>
-<p>Me chamo Iasmin, tenho 28 anos e atualmente trabalho como desenvolvedora Front-end.</p>
+<p>Me chamo Iasmin, tenho 29 anos e atualmente trabalho como desenvolvedora Front-end.</p> Utilizo esse espaço para publicar pequenos projetos de estudo.
 <div display="inline-block" align="left">
 <a href="https://www.linkedin.com/in/iasminln/" target="_blank">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -26,8 +26,8 @@
 
 <h2 align="left">Algumas bobeirinhas 😁 </h2>
 <ul>
-<li>Aprendi HTML e CSS em 2006, com uns 12 anos. Mas adolescente é bobo e parei de mexer nisso quando fui pro ensino médio.</li>
-<li>Sou formada em engenharia civil e atuei fazendo projetos hidráulicos e de prevenção contra incêndio. Mas não estava feliz com isso.</li>
+<li>Aprendi HTML e CSS em 2006, com uns 12 anos, em tempos pré YouTube e pré Tumblr. Mas parei de mexer nisso quando fui pro ensino médio, retornando só na faculdade de engenharia.</li>
+<li>Sou formada em engenharia civil e atuei fazendo projetos hidráulicos e de prevenção contra incêndio. Mas não estava feliz nessa carreira.</li>
 <li>Comecei a rever e estudar programação em 2019, mas só mudei de carreira oficialmente em 2021, iniciando como estagiária em front-end. A Iasmin de 12 anos ficou bem satisfeita com isso!</li>
 <li>Depois de me aperfeiçoar melhor em desenvolvimento web, quero aprender tecnologias mobile.</li>
 </ul>
