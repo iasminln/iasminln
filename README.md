@@ -13,16 +13,19 @@ Utilizo esse espaço para publicar pequenos projetos de estudo.</p>
 </br>
 </br>
 <h2>Tecnologias 💻</h2>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" title="Sass" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="TypeScript" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="ReactJS" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" /></br>
-<img align="left" src="https://cdn.discordapp.com/attachments/1003853007319990425/1004026079192809543/logo-vtex.png" width="40px" title="Vtex" /></br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40px" title="jQuery" />    </br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" title="GraphQL" />    </br>    
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" title="Sass" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="TypeScript" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="ReactJS" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" />
+<img align="left" src="https://cdn.discordapp.com/attachments/1003853007319990425/1004026079192809543/logo-vtex.png" width="40px" title="Vtex" />
+</br>
+</br> 
+</br>  
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40px" title="jQuery" />    
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" title="GraphQL" />      
 </br>
 </br>
 </br>
