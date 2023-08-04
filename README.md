@@ -21,6 +21,8 @@ Utilizo esse espaço para publicar pequenos projetos de estudo.</p>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
 <img align="left" src="https://cdn.discordapp.com/attachments/1003853007319990425/1004026079192809543/logo-vtex.png" width="40px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40px" />    
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" />        
 </br>
 </br>
 </br>
