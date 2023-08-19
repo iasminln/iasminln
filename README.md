@@ -38,13 +38,6 @@ Utilizo esse espaço para publicar pequenos projetos de estudo.</p>
 <li>Depois de me aperfeiçoar melhor em desenvolvimento web, quero aprender tecnologias mobile.</li>
 </ul>
 
-<h2 align="left">Sobre quem é a Ias 🌸</h2>
-<ul>
-<li>Embora não tenha gostado de atuar como engenheira, descobri que os conteúdos de mecânica dos fluídos e hidráulica são muito interessantes.</li>
-<li>Eu sempre fugia das aulas de educação física na escola. Quando tinha algum evento esportivo, preferia ficar na sala jogando sudoku e resolvendo joguinhos de lógica.</li>
-<li>Mas eu gosto de esportes! Gostava muito de natação e ginástica artística. Adorei praticar sanda e kung fu. Atualmente sou uma aprendiz de maromba de academia.</li>
-<li>Tenho um gosto musical eclético, mas o mais predominante na playlist é rock/metal e instrumentais. Mas não dispenso um bom pagodinho.</li>
-</ul>
 
 
 <!----
