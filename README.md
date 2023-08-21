@@ -41,7 +41,7 @@
 <ul>
 <li>Aprendi HTML e CSS em 2006, com uns 12 anos, em tempos pré YouTube e pré Tumblr. Tive um blog e criava todo o design, layout e identidade visual (nos moldes anos 2000: com muito brilho e música de fundo). Mas parei de mexer nisso quando fui pro ensino médio, retornando só na faculdade de engenharia.</li>
 <li>Sou formada em engenharia civil e atuei fazendo projetos hidráulicos e de prevenção contra incêndio, residencial e predial. Mas não estava feliz nessa carreira.</li>
-<li>Comecei a rever e estudar programação em 2018, mas só mudei de carreira oficialmente em 2021, iniciando como estagiária em front-end. A Iasmin de 12 anos ficou bem satisfeita com isso!</li>
+<li>Comecei a rever e estudar programação em 2018, mas só mudei de carreira oficialmente em 2021, iniciando como estagiária em front-end. </li>
 <li>Depois de me aperfeiçoar melhor em desenvolvimento web, quero aprender tecnologias mobile.</li>
 </ul>
 
