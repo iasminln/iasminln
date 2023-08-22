@@ -20,6 +20,13 @@
 </br>
 </br>
 
+<p>Dê uma olhada no portfólio que estou construindo: </p>
+<a href="https://iasminln.github.io/curriculo-virtual/">
+<img align="center" src="https://cdn.discordapp.com/attachments/1003853007319990425/1143666331577745518/Group_25.png"  />
+</a>
+</br>
+</br>
+
 <h2>Tecnologias 💻</h2>
 <div display="inline-block" align="left">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML" />
