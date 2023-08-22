@@ -22,7 +22,7 @@
 
 <p>Dê uma olhada no portfólio que estou construindo: </p>
 <a href="https://iasminln.github.io/curriculo-virtual/">
-<img align="center" src="https://cdn.discordapp.com/attachments/1003853007319990425/1143666331577745518/Group_25.png"  />
+<img align="center" src="https://cdn.discordapp.com/attachments/1003853007319990425/1143677897278763168/Group_25_1.png"  />
 </a>
 </br>
 </br>
