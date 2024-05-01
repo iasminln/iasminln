@@ -14,7 +14,7 @@
 </br>
 
 <p align="center">
-<img align="center" src="https://cdn.discordapp.com/attachments/1003853007319990425/1143287804076494918/Group_24.png" width="300px"  />
+<img align="center" src="https://iasmin.dev/wp-content/uploads/2024/05/Group_24.png" width="300px"  />
 </p>
 
 </br>
@@ -22,7 +22,7 @@
 
 <p>Dê uma olhada no portfólio que estou construindo: </p>
 <a href="https://iasminln.github.io/curriculo-virtual/">
-<img align="center" src="https://cdn.discordapp.com/attachments/1003853007319990425/1143677897278763168/Group_25_1.png"  />
+<img align="center" src="https://iasmin.dev/wp-content/uploads/2024/05/Group_25_1.png"  />
 </a>
 </br>
 </br>
@@ -36,7 +36,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="ReactJS" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
-<img loading="lazy" src="https://cdn.discordapp.com/attachments/1003853007319990425/1004026079192809543/logo-vtex.png" width="50" height="50" title="Vtex IO" /> 
+<img loading="lazy" src="https://iasmin.dev/wp-content/uploads/2024/05/logo-vtex.png" width="50" height="50" title="Vtex IO" /> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50" title="jQuery" />    
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" title="GraphQL" /> 
 </div>
