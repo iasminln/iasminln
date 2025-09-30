@@ -14,7 +14,7 @@
 </br>
 
 <p align="center">
-<img align="center" src="https://iasmin.dev/wp-content/uploads/2024/05/Group_24.png" width="300px" alt />
+<img align="center" src="https://media.discordapp.net/attachments/1003853007319990425/1143287804076494918/Group_24.png?ex=68dcecfd&is=68db9b7d&hm=244a6bdfebf385da44885704e4dfe1deba4f2394598bfb04eaa8309dfb2d14fa&=&format=webp&quality=lossless" width="300px" alt />
 </p>
 
 </br>
@@ -22,10 +22,11 @@
 
 <p>Dê uma olhada no portfólio que estou construindo: </p>
 <a href="https://iasminln.github.io/curriculo-virtual/">
-<img align="center" src="https://iasmin.dev/wp-content/uploads/2024/05/Group_25_1.png" alt="Portfólio de Iasmin" />
+<img align="center" src="https://media.discordapp.net/attachments/1003853007319990425/1143677897278763168/Group_25_1.png?ex=68dd06cb&is=68dbb54b&hm=73aa37d1d81395bf83009e42b3b2cbd1056b7337be91606d4c5c7297f6cda2ee&=&format=webp&quality=lossless" alt="Portfólio de Iasmin" />
 </a>
 </br>
 </br>
+
 
 <h2>Tecnologias 💻</h2>
 <div display="inline-block" align="left">
@@ -36,7 +37,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript" alt="TypeScript" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="ReactJS" alt="ReactJS" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" alt="Git" />
-<img loading="lazy" src="https://iasmin.dev/wp-content/uploads/2024/05/logo-vtex.png" width="50" height="50" title="Vtex IO" alt="Vtex IO" />
+<img loading="lazy" src="https://media.discordapp.net/attachments/1003853007319990425/1004026079192809543/logo-vtex.png?ex=68dd3427&is=68dbe2a7&hm=7bbea4e36852ddfe6457d920b46ba9ca14e1a1e1107c48ab25e9ec16ef571a4b&=&format=webp&quality=lossless" width="50" height="50" title="Vtex IO" alt="Vtex IO" />
 <img loading="lazy" src="https://iasmin.dev/wp-content/uploads/2024/05/shopify-logo-1.png" width="50" height="50" title="Shopify" alt="Shopify" />
 <img loading="lazy" src="https://iasmin.dev/wp-content/uploads/2024/05/Group-37.png" width="50" height="50" title="Liquid" alt="Liquid" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50" title="jQuery" alt="jQuery" />    
