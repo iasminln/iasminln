@@ -21,7 +21,7 @@
 </br>
 
 <p>Dê uma olhada no portfólio: </p>
-<a href="https://iasminln.github.io/curriculo-virtual/">
+<a href="https://iasmin.dev">
 <img align="center" src="https://iasmin.dev/images/image-portfolio-github.png" alt="Portfólio de Iasmin" />
 </a>
 </br>
