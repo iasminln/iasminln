@@ -20,9 +20,9 @@
 
 </br>
 
-<p>Dê uma olhada no portfólio: </p>
+
 <a href="https://iasmin.dev">
-<img align="center" src="https://iasmin.dev/images/image-portfolio-github.png" alt="Portfólio de Iasmin" />
+<img align="center" width=400 height=210 src="https://iasmin.dev/images/image-preview-url.png" alt="Preview para site de Iasmin" />
 </a>
 </br>
 </br>
@@ -57,9 +57,9 @@
 </br>
 </br>
 
-<div align="center">
+
 <a href="https://github.com/iasminln">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminln&layout=compact&langs_count=7&theme=dracula"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-</div>
+
 
