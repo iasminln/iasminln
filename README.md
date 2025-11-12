@@ -21,7 +21,7 @@
 </br>
 
 
-<a href="https://iasmin.dev">
+<a href="https://iasmin.dev/gd">
 <img align="center" width=400 height=210 src="https://iasmin.dev/images/image-preview-url.png" alt="Preview para site de Iasmin" />
 </a>
 </br>
